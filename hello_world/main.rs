@@ -6,3 +6,4 @@ fn main() {
 // rustup component add rustfmt , pour installer le fichier de formatage
 // rustfmt main.rs , pour formater le fichier
 // cargo fmt , à la racine d'un projet pour pouvoir formater un projet
+// ./main , pour lancer le binaire
